@@ -238,15 +238,19 @@
   grid-area: item1;
 }
 .task42 .item2 {
+  display: grid;
 }
 .task42 .item3 {
+  display: grid;
 }
 .task42 .item4 {
   grid-area: item4;
 }
 .task42 .item5 {
+  display: grid;
 }
 .task42 .item6 {
+  display: grid;
 }
 
 .task43 {
